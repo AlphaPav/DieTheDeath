@@ -13,6 +13,6 @@
 * 建议玩家在游戏中行走步伐小一些，防止被树木、桥桩等卡住。请慢慢欣赏游戏中的景色。
 
 ## 团队
-- Game Designer：洪芳楠 陈颖瑶
-- Art Designer：张远青 邹姗辰
-- Programmer：谢楚琳 周心怡
+- Game Designer：Hong Fangnan, Chen Yinyao
+- Art Designer：Zhang Yuanqing, Zou Shanchen
+- Programmer：Xie Chulin, Zhou Xinyi
